@@ -1,4 +1,6 @@
 ASAP Notes: Simple Note-Taking Web App
+
+
 📖 About the Project
 ASAP Notes is a lightweight, user-friendly web application designed for quick and efficient note-taking. This project focuses on providing a minimal yet functional interface where users can create, view, edit, and delete notes with ease. The goal is to offer a simple and distraction-free solution for everyday note-taking tasks.
 
