@@ -20,7 +20,7 @@ ASAP Notes is a lightweight, user-friendly web app designed for quick and effici
 - Build a simple and responsive interface using HTML and CSS.  
 - Practice event handling and dynamic content updates through JavaScript.  
 
-### 🛠️ **Technologies Used**  
+### 🛠️ **Technologies Used**  8*9/
 - **Frontend:** HTML, CSS, JavaScript  
 - **Storage:** Browser localStorage  
 
